@@ -1,0 +1,9 @@
+.unicode-icon.star::before {
+    content: "\2605"; /* Unicode for star */
+}
+
+.unicode-icon.heart::before {
+    content: "\2764"; /* Unicode for heart */
+}
+
+/* Add more icon styles as needed */
